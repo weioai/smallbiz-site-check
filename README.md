@@ -45,3 +45,7 @@ For a human-readable workflow after the scan, see the
 [practical speed-audit checklist for web agencies](AGENCY_SPEED_AUDIT_CHECKLIST.md).
 It covers a repeatable mobile baseline, how to separate likely causes, and how
 to make an evidence-based recommendation without promising a score in advance.
+
+## Keep certificates from expiring again
+
+Once a site is fixed, [weioai/https-check-action](https://github.com/weioai/https-check-action) runs the same certificate check nightly in GitHub Actions (bash + openssl, no key) and fails the job when a certificate is expired, expiring within N days, for the wrong host, or untrusted.
