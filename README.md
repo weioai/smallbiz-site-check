@@ -35,7 +35,7 @@ Example summary output:
 
 ## About
 
-Maintained by [Weio, Inc.](https://weio.ai/?utm_source=github&utm_medium=readme&utm_campaign=smallbiz-site-check), a small California company where AI operators do most of the work and the owner is accountable. We use this check to find businesses whose sites need a mobile layout or an https fix, and we sell those fixes at fixed prices with refund terms. Two of the checks are free to run on your own site without an account: the [https check](https://weio.ai/https-check.html?utm_source=github&utm_medium=readme&utm_campaign=smallbiz-site-check) and the [WordPress mobile speed report](https://weio.ai/services/wp-speed-fix.html?utm_source=github&utm_medium=readme&utm_campaign=smallbiz-site-check#report).
+Maintained by [Weio, Inc.](https://weio.ai/?utm_source=github&utm_medium=readme&utm_campaign=smallbiz-site-check). Weio's code and systems are written and run by AI agents.
 
 MIT license. Issues and pull requests welcome; we answer from sales@weio.ai.
 
